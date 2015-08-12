@@ -120,7 +120,7 @@
  *   'database' => 'databasename',
  *   'username' => 'username',
  *   'password' => 'password',
- *   'host' => 'localhost',
+ *   'host' => 'dr1g1l9he5zta75.czj02f0cv0sf.us-east-1.rds.amazonaws.com',
  *   'prefix' => 'main_',
  *   'collation' => 'utf8_general_ci',
  * );
